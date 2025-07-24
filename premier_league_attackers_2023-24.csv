@@ -1,0 +1,12 @@
+
+Player,Age,Club,Minutes,Position,Goals/90,NPG/90,Assists/90,xG/90,xA/90,ShotConv%,Shots/90,DribblesAttempted/90,DribbleSuccess%,TouchesAttPen/90,PressuresFinalThird/90,PassesIntoFinalThird/90
+Erling Haaland,23,Manchester City,2775,Centre-forward,0.95,0.71,0.18,1.03,0.08,18,3.99,1.06,40.0,6.45,N/A,0.56
+Cole Palmer,22,Chelsea,2618,Attacking mid/Winger,0.76,0.45,0.38,0.63,0.38,13,3.44,3.58,50.0,4.33,N/A,4.68
+Alexander Isak,24,Newcastle United,2255,Centre-forward,0.84,0.64,0.08,0.81,0.11,22,2.87,2.95,56.8,5.55,N/A,1.12
+Phil Foden,23,Manchester City,2857,Attacking mid/Winger,0.6,0.6,0.25,0.32,0.22,18,3.31,3.21,46.1,5.99,N/A,2.24
+Dominic Solanke,26,AFC Bournemouth,3325,Centre-forward,0.51,0.46,0.08,0.53,0.05,16,2.87,2.87,36.8,5.85,N/A,0.87
+Son Heung-min,31,Tottenham Hotspur,2934,Forward,0.52,0.46,0.31,0.37,0.25,18,2.55,2.82,42.4,6.5,N/A,1.23
+Jarrod Bowen,27,West Ham United,3019,Forward/Winger,0.48,0.48,0.18,0.35,0.14,19,2.5,2.89,35.1,5.19,N/A,0.86
+Nicolas Jackson,22,Chelsea,2799,Centre-forward,0.45,0.45,0.16,0.6,0.09,18,2.57,3.38,51.4,4.86,N/A,1.29
+Ollie Watkins,28,Aston Villa,3217,Centre-forward,0.53,0.53,0.36,0.47,0.12,18,2.99,1.76,41.3,6.01,N/A,0.64
+Yoane Wissa,27,Brentford,2493,Winger/Forward,0.43,0.43,0.11,0.38,0.07,18,2.42,1.88,38.5,4.4,N/A,0.94
